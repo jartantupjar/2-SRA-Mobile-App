@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SRA Farmer</string>
+    <string name="title_activity_fields">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_select_field">Map</string>
+    <string-array name="phases">
+        <item>Germination</item>
+        <item>Tillering</item>
+        <item>Stalk Elongation</item>
+        <item>Yield Formation</item>
+        <item>Ripening</item>
+        <item>Milling</item>
+        <item>Planting</item>
+        <item>Year</item>
+        <item>Land Preparation</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_select_fields">Map</string>
+</resources>
